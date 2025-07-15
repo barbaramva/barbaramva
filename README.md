@@ -22,7 +22,7 @@
 ## 🌍 Objetivo
 
 🌍 Atuar com **Ciência de Dados/ Análise de Dados**, contribuindo com insights baseados em dados em empresas nacionais e internacionais.  
-🗣️ Aprimorando inglês técnico e com conhecimento básico de francês, preparando-me para futuras oportunidades globais.
+🗣️ Aprimorando **inglês técnico** e com conhecimento básico de francês, preparando-me para futuras oportunidades globais.
 
 ---
 
