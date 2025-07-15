@@ -27,7 +27,7 @@
 ---
 
 📬 **Vamos conversar?**  
-[LinkedIn](www.linkedin.com/in/barbara-angélica) | [barbara.29avm@gmail.com](mailto:barbara.29avm@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/barbara-ang%C3%A9lica/) | [barbara.29avm@gmail.com](mailto:barbara.29avm@gmail.com)
 
 ✨ *Este perfil está em construção — assim como minha jornada no universo dos dados.*
 
