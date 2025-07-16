@@ -1,7 +1,8 @@
 # 👋 Olá! Me chamo Barbara Angélica
 
-Estou em transição para a área de **Ciência de Dados**, com foco em transformar dados em decisões inteligentes.  
-Atualmente atuo na área da educação, unindo minha experiência com gestão acadêmica ao desenvolvimento de habilidades técnicas em dados.
+- Estou em transição para a área de **Ciência de Dados**, com foco em transformar dados em decisões estratégicas e inteligentes
+- Atuo atualmente na área da educação, onde uno minha experiência em gestão acadêmica ao desenvolvimento de habilidades técnicas em dados
+- Apaixonada por esportes, participo de corridas e travessias aquáticas, sempre buscando evolução dentro e fora da área profissional
 
 ## O que estou estudando atualmente
 
