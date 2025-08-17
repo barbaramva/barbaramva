@@ -11,7 +11,7 @@
 - 🧮 **SQL** — consulta e manipulação de dados em bancos relacionais
 - 📑 **Excel aplicado à análise de dados**
 - 🤖 Fundamentos de **Machine Learning** e **Inteligência Artificial**
-- 📚 Lendo no momento: *Pense em Python* 
+- 📚 Lendo no momento: *Pense em Python - Pense como um Cientista de Computação* 
   
 ## Objetivo
 
