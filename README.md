@@ -6,11 +6,9 @@
 
 ## O que estou estudando atualmente
 
+- 🤖 **Formação Cientista de Dados 4.0** - na Data Science DSA
 - 📊 **Power BI** — com foco na certificação PL-300 (Microsoft)
 - 🐍 **Python** — voltado para análise de dados (Pandas e projetos práticos)
-- 🧮 **SQL** — consulta e manipulação de dados em bancos relacionais
-- 📑 **Excel aplicado à análise de dados**
-- 🤖 Fundamentos de **Machine Learning** e **Inteligência Artificial**
 - 📚 Lendo no momento: *Pense em Python - Pense como um Cientista de Computação* 
   
 ## Objetivo
