@@ -13,7 +13,7 @@
   
 ## Objetivo
 
-🌍 Estágio em **Ciência de Dados / Análise de Dados**
+🌍 Estágio em **Ciência de Dados / Análise de Dados**<br>
 🗣️ Aprimorando **inglês técnico** e com conhecimento básico de francês, preparando-me para futuras oportunidades globais.
 
 ---
