@@ -1,19 +1,19 @@
-# 👋 Olá! Me chamo Barbara Angélica
+# 👋 Olá! Me chamo Barbara 
 
-- Estou em transição para a área de **Ciência de Dados**, com foco em transformar dados em decisões estratégicas e inteligentes
-- Atuo atualmente na área da educação, onde uno minha experiência em gestão acadêmica ao desenvolvimento de habilidades técnicas em dados
-- Apaixonada por esportes, participo de corridas e travessias aquáticas, sempre buscando evolução dentro e fora da área profissional
+🎓 Estudante de **Tecnologia em Banco de Dados** pela Universidade Presbiteriana Mackenzie, em transição para a área de Ciência de Dados.
+🏃‍♀️ Apaixonada por esportes, participo de corridas e travessias aquáticas, sempre buscando evolução dentro e fora da área profissional
+💻 Aqui no meu GitHub você encontrará projetos iniciais, estudos práticos e desafios voltados para análise de dados, programação e banco de dados.
 
 ## O que estou estudando atualmente
 
-- 🤖 **Formação Cientista de Dados 4.0** - na Data Science DSA
-- 📊 **Power BI** — com foco na certificação PL-300 (Microsoft)
-- 🐍 **Python** — voltado para análise de dados (Pandas e projetos práticos)
-- 📚 Lendo no momento: *Pense em Python - Pense como um Cientista de Computação* 
+- **Tecnologia em Banco de Dados** - Universidade Presbiteriana Mackenzie (1º semestre)
+- **Formação Cientista de Dados 4.0** - Data Science DSA
+- **Preparação para certificação AWS** — simulados e estudos direcionados
+- **Lendo no momento:** Pense em Python - Pense como um Cientista de Computação
   
 ## Objetivo
 
-🌍 Atuar com **Ciência de Dados/ Análise de Dados**, contribuindo com insights baseados em dados em empresas nacionais e internacionais.  
+🌍 Estágio em **Ciência de Dados / Análise de Dados**
 🗣️ Aprimorando **inglês técnico** e com conhecimento básico de francês, preparando-me para futuras oportunidades globais.
 
 ---
@@ -21,6 +21,5 @@
 **Vamos conversar?**  
 [LinkedIn](https://www.linkedin.com/in/barbara-ang%C3%A9lica/) | [barbara.29avm@gmail.com](mailto:barbara.29avm@gmail.com)
 
-✨ *Este perfil está em construção — assim como minha jornada no universo dos dados.*
 
 
