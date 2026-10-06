@@ -19,7 +19,7 @@
 ---
 
 **Vamos conversar?**  
-[LinkedIn](https://www.linkedin.com/in/barbara-ang%C3%A9lica/) | [barbara.29avm@gmail.com](mailto:barbara.29avm@gmail.com)
+[LinkedIn](www.linkedin.com/in/barbara-angelicamoreira) | [barbara.29avm@gmail.com](mailto:barbara.29avm@gmail.com)
 
 
 
