@@ -1,7 +1,7 @@
 # 👋 Olá! Me chamo Barbara 
 
 🎓 Estudante de **Tecnologia em Banco de Dados** pela Universidade Presbiteriana Mackenzie, em transição para a área de Ciência de Dados. <br>
-🏃‍♀️ Apaixonada por esportes, participo de corridas e travessias aquáticas, sempre buscando evolução dentro e fora da área profissional <br>
+🏃‍♀️ Apaixonada por esportes, participo de corridas e travessias aquáticas. <br>
 💻 Aqui no meu GitHub você encontrará projetos iniciais, estudos práticos e desafios voltados para análise de dados, programação e banco de dados.
 
 ## O que estou estudando atualmente
