@@ -6,7 +6,7 @@
 
 ## O que estou estudando atualmente
 
-- **Tecnologia em Banco de Dados** - Universidade Presbiteriana Mackenzie (1º semestre)<br>
+- **Tecnologia em Banco de Dados** - Universidade Presbiteriana Mackenzie (2º semestre)<br>
 - **Formação Cientista de Dados 4.0** - Data Science DSA<br>
 - **Preparação para certificação AWS** - simulados e estudos direcionados<br>
 - **Lendo no momento:** Pense em Python - Pense como um Cientista de Computação<br>
