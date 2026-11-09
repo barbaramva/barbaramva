@@ -1,6 +1,6 @@
 # 👋 Olá! Me chamo Barbara 
 
-🎓 Estudante de **Tecnologia em Banco de Dados** pela Universidade Presbiteriana Mackenzie, em transição para a área de Ciência de Dados. <br>
+🎓 Estudante de **Tecnologia em Banco de Dados** pela Universidade Presbiteriana Mackenzie, em transição para a área de Dados e Inteligência Artificial. <br>
 🏃‍♀️ Apaixonada por esportes, participo de corridas e travessias aquáticas. <br>
 💻 Aqui no meu GitHub você encontrará projetos iniciais, estudos práticos e desafios voltados para análise de dados, programação e banco de dados.
 
@@ -10,10 +10,13 @@
 - **Formação Cientista de Dados 4.0** - Data Science DSA<br>
 - **Preparação para certificação AWS** - simulados e estudos direcionados<br>
 - **Lendo no momento:** Pense em Python - Pense como um Cientista de Computação<br>
+
+## 🏅 Certificações
+- Oracle Cloud Infrastructure Certified AI Foundations Associate – Oracle (2026)
   
 ## Objetivo
 
-🌍 Estágio/ Vaga Junior em **Ciência de Dados / Análise de Dados**<br>
+🌍 Estágio em Inteligência Artificial, IA Generativa e Dados.<br>
 🗣️ Aprimorando **inglês técnico** e com conhecimento básico de francês, preparando-me para futuras oportunidades globais.
 
 ---
